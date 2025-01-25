@@ -1,4 +1,4 @@
-# Multithreaded Web Server and Client
+# Multithreaded Web Server and Client:
 
 A Java-based multithreaded web server and client implementation. The server handles multiple client connections simultaneously using threads, demonstrating the basics of concurrent programming with Java.
 
